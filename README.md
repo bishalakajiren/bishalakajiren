@@ -8,7 +8,7 @@ I'm বিশাল শর্মা a Web Developer and Content Creator on [Yout
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working as Student Studying Master of Computer Application in (computer Science) at ![RajivGandhiUniversity](https://img.shields.io/badge/RAJIV%20GANDHI%20UNIVERSITY-UNIVERSITY-blue)(https://https://rgu.ac.in/)
+- 🔭 I’m currently working as Student Studying Master of Computer Application in (computer Science) at [![RajivGandhiUniversity](https://img.shields.io/badge/RAJIV%20GANDHI%20UNIVERSITY-UNIVERSITY-blue)(https://https://rgu.ac.in/)]
 - 🤔 I’m looking for grow and learn from data world.
 - 📫 How to reach me: bishalneon5@gmail.com.
 - 😄 Pronouns: Bishalakajiren
